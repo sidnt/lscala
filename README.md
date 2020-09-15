@@ -1,0 +1,2 @@
+# lscala
+learning scala
